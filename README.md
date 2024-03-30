@@ -2,7 +2,7 @@
 This is a game inspired by the boggle game, created using Unity and Micro:bit.  
 Made with Unity 2019.4.40f1
 
-## Projectfeatures:
+## Project features:
 1. A multifunctional word card page where users can search, view familiarity with each word, pronunciation, and more.
 <img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/a2cfcd88-055f-4e67-9b6c-b86d8b148a32" width="225" height="400">
 
