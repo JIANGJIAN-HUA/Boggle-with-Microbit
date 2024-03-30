@@ -6,6 +6,8 @@ Made with Unity 2019.4.40f1
 1. A multifunctional word card page where users can search, view familiarity with each word, pronunciation, and more.
 <img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/a2cfcd88-055f-4e67-9b6c-b86d8b148a32" width="225" height="400">
 <img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/3c4dc40c-3527-4336-a66b-efc7e5a3e517" width="225" height="400">
+<img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/f9474196-120e-40ab-b597-7f33b8e7dab2" width="225" height="400">
+<img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/53c61018-16dd-4664-be59-a2de09f4f2be" width="225" height="400">
 
 2. Gameplay modes include options for time limits and single or multiplayer modes.
 <img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/b5dc63a7-0d0c-4bd1-8e66-bea401e0b649" width="225" height="400">
