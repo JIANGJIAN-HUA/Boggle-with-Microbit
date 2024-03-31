@@ -15,7 +15,7 @@ Made with Unity 2019.4.40f1.
 <img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/4cdb8104-0fc5-43ab-a90f-c24c511f8ab5" width="225" height="400">
 
 3. You can spell words by manipulating the game controller.
-<img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/b7d3553c-2e00-49cc-a50d-01114c2356c9" width="600" height="400">
+<img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/b7d3553c-2e00-49cc-a50d-01114c2356c9" width="500" height="400">
 <img src="https://github.com/JIANGJIAN-HUA/Boggle-with-Microbit/assets/154335123/d675981b-0681-4157-a16a-226c3763e96b" width="225" height="400">
 
 
